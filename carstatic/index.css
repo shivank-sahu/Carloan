@@ -1,0 +1,416 @@
+.container {
+    margin-top: 15px;
+    background-color: #f3f9ff;
+
+}
+
+.banner-txt {
+    margin-top: 85px;
+
+}
+
+.banner-txt h1 {
+    font-size: 50px;
+    font-weight: 700;
+    margin-bottom: 15px;
+    color: rgb(37, 127, 211);
+}
+
+.banner-txt h3 {
+    margin-bottom: 15px;
+
+    color: rgb(37, 127, 211);
+    font-size: 50px;
+    font-weight: 700;
+}
+
+.banner-txt p {
+    font-weight: 400;
+    margin-bottom: 15px;
+    color: #3d4159;
+
+}
+
+.banner-btn {
+    background-color: #46be88;
+    border-radius: 16px;
+
+    color: white;
+    border: none;
+    margin: 5px;
+    padding-left: 25px;
+    padding-right: 25px;
+    padding-bottom: 5px;
+    padding-top: 5px;
+    margin-bottom: 15px;
+
+}
+
+.banner-btn:hover {
+    color: #46be88;
+    background-color: rgb(255, 255, 255);
+    border: 2px solid #46be88;
+}
+
+
+/* features css  */
+
+
+.features-title {
+    text-align: center;
+    margin-bottom: 20px;
+    font-size: 50px;
+    margin-bottom: 40px;
+
+}
+
+.features-corn {
+    margin-top: 5px;
+    margin-right: 5px;
+    background-color: white;
+    padding-top: 25px;
+    padding-bottom: 10px;
+    text-align: center;
+    border-radius: 10px;
+
+}
+
+.features-corn:hover {
+    border: 2px solid #61dafb;
+}
+
+.features-corn h3 {
+    font-size: 30px;
+    font-weight: 700;
+    color: rgb(32, 31, 31);
+
+}
+
+.features-corn p {
+    font-size: 20px;
+    font-weight: 400;
+    color: #3d4159;
+}
+
+.features-btn {
+    text-align: center;
+
+    margin-bottom: 10px;
+    margin-top: 30px;
+
+
+}
+
+.features-btn button {
+    border-radius: 25px;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: #33a9b1;
+    border: 2px solid #33a9b1;
+
+
+
+}
+
+.features-btn button:hover {
+    background-color: #61dafb;
+    color: white;
+    border: white;
+}
+
+.buy-title {
+    text-align: center;
+    font-size: 40px;
+    font-weight: 700;
+}
+
+.features-txt {
+    margin-top: 30px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.features-txt p {
+    padding: 10px;
+    font-weight: 400;
+    font-style: italic;
+}
+
+/* buy car  */
+
+.buy-txt {
+
+    text-align: center;
+
+    margin-bottom: 30px;
+}
+
+.buy-txt h3 {
+    font-size: 40px;
+    font-weight: 700;
+}
+
+.buy-inner-txt {
+    background-color: white;
+    padding: 20px;
+    margin-right: 10px;
+}
+
+.buy-inner-txt h2 {
+    width: 54px;
+    height: 54px;
+    text-align: center;
+    padding: 13px 0;
+    background-color: #f2faf6;
+    color: #46be88;
+    font-weight: 600;
+    border-radius: 8px;
+    margin-bottom: 30px;
+    /* margin-bottom: 0px; */
+    font-size: 50px;
+    font-weight: 700;
+}
+
+.buy-inner-txt h3 {
+    font-size: 20px;
+
+    font-weight: 700;
+
+}
+
+.buy-inner-txt p {
+    font-size: 14px;
+    color: #3d4159;
+    opacity: .6;
+    font-weight: 400;
+    margin-top: 10px;
+}
+
+.arrow img {
+    width: 34px;
+
+    height: 10px;
+    color: #46be88;
+
+}
+
+.simg {
+    width: 190px;
+    height: 100px;
+    margin: 5px;
+    margin-bottom: 29px;
+}
+
+.simg-txt {
+    padding: 5px;
+    margin-right: 15px;
+    padding-right: 15px;
+
+}
+
+.eligible h1 {
+    text-align: center;
+    margin-bottom: 40px;
+    font-size: 40px;
+
+    font-weight: 700;
+
+
+
+}
+
+.eligible p {
+    text-align: center;
+
+    font-size: 25px;
+    color: #3d4159;
+    font-style: italic;
+    font-weight: 400;
+
+}
+
+.eligible-txt h3 {
+    margin-bottom: 35px;
+    margin-top: 30px;
+}
+
+
+
+/* table  */
+.tabledesign {
+    border-collapse: collapse;
+    border-spacing: 0;
+    margin-top: 40px;
+
+}
+
+.tabledesign thead {
+
+    display: table-header-group;
+    vertical-align: middle;
+    border-color: inherit;
+
+}
+
+.tabledesign thead tr td small {
+    margin-left: 50px;
+
+
+}
+
+.tabledesign tbody {
+    display: table-row-group;
+    vertical-align: middle;
+    border-color: inherit;
+
+}
+
+.tabledesign tbody tr {
+    display: table-row;
+    vertical-align: inherit;
+    border-color: inherit;
+
+}
+
+.tabledesign tbody tr td img {
+    position: relative;
+    top: 16px;
+    left: -13px;
+    background: #fff;
+    box-shadow: 0px 8px 30px rgba(83, 103, 255, .1);
+    border-radius: 12px;
+    margin-bottom: 20px;
+    width: 115px;
+    margin-left: 15px;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+.tabledesign tbody tr td p {
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    line-height: 1.7;
+    margin-left: 50px;
+    color: #3d4159;
+    font-weight: 400;
+}
+
+.logoimg {
+    width: 115px;
+    margin-left: 20px;
+
+}
+
+@media (max-width:430px) {
+    .tabledesign thead tr td small {
+
+        display: block;
+    }
+}
+
+.car {
+    margin-top: 75px;
+    margin-bottom: 75px;
+    padding: 10px;
+}
+
+.car-r {
+    margin-bottom: 20px;
+}
+
+.car-co img {
+    width: 315px;
+    height: 215px;
+}
+
+.logo {
+    margin-top: 45px;
+    /* margin-left: 45px; */
+}
+
+.logo-r {
+    margin-bottom: 25px;
+}
+
+.logo-co {
+    margin-right: 3px;
+}
+
+.logo-card img {
+    align-items: center;
+    width: 100px;
+    height: 80px;
+
+    margin: 20px;
+
+}
+
+.logo h1 {
+    text-align: center;
+    /* margin-bottom: 30px; */
+    font-style: italic;
+    font-size: 40px;
+}
+
+.car h1 {
+    text-align: center;
+    font-style: italic;
+    font-size: 30px;
+    margin-bottom: 35px;
+}
+
+
+/* carosal */
+
+.container {
+    overflow: hidden;
+
+    .slider {
+        animation: slidein 30s linear infinite;
+        white-space: nowrap;
+
+        .logos {
+            width: 100%;
+            display: inline-block;
+            margin: 0px 0;
+
+            .fab {
+                width: calc(100% / 5);
+                animation: fade-in 0.5s cubic-bezier(0.455, 0.03, 0.515, 0.955) forwards;
+            }
+        }
+    }
+}
+
+@keyframes slidein {
+    from {
+        transform: translate3d(0, 0, 0);
+    }
+
+    to {
+        transform: translate3d(-100%, 0, 0);
+    }
+}
+
+@keyframes fade-in {
+    0% {
+        opacity: 0;
+    }
+
+    100% {
+        opacity: 1;
+    }
+}
+
+.carsol {
+    margin-top: -170px;
+}
+.carosal{
+margin-top: 250px;
+margin-bottom: 20px;
+}
